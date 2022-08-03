@@ -65,15 +65,15 @@
         </div>
       </div>
       <!-- copyright -->
-      <div class="colorlibcopy-agile">
+      <div class="anup">
         <p>
           <a href="https://anup-narkhede.github.io/Portfolio/" target="_blank"
-            >© Anup Narkhede</a
+            >©Anup Anant Narkhede</a
           >
         </p>
       </div>
       <!-- //copyright -->
-      <ul class="colorlib-bubbles"></ul>
+      <ul class="anup"></ul>
     </div>
     <!-- //main -->
   </body>
