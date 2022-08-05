@@ -61,7 +61,7 @@
             </div>
             <input type="submit" value="SIGNUP" />
           </form>
-          <p>Don't have an Account? <a href="#">SignUp Here!</a></p>
+          <p>Don't have an Account? <a href="#">SignUp Here Now!</a></p>
         </div>
       </div>
       <!-- copyright -->
